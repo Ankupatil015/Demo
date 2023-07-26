@@ -1,2 +1,2 @@
 # Demo
-Basics of HTML and CSS
+Basic knowledge of HTML and CSS
